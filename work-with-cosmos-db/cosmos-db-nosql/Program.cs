@@ -35,8 +35,18 @@ command.SetHandler(
 );
 */
 //Partition key PartitionKeyBuilder
+//Create_a_transaction_using_the_SDK
+
+//dotnet run -- --name 'Patrick Hannon' --state 'Washington' --country 'United States'
 command.SetHandler(
-    handle: CosmosHandler.PartitionKeyBuilder, 
+    //handle: CosmosHandler.Add_items_to_a_container_using_the_SDK, 
+    //dotnet run -- --name 'Patrick Hannon' --state 'Texas' --country 'United States'
+    handle: CosmosHandler.Retrieve_an_item_using_the_SDK, 
+    //dotnet run -- --name 'Shannie Hannon' --state 'Texas' --country 'United States'
+    //handle: CosmosHandler.PartitionKeyBuilder, 
+    //dotnet run -- --name 'Patrick Hannon' --state 'Washington' --country 'United States'
+    //handle: CosmosHandler.Create_a_transaction_using_the_SDK, 
+    //dotnet run -- --name 'Patrick Hannon' --state 'Washington' --country 'United States'
     nameOption, 
     emailOption,
     stateOption,

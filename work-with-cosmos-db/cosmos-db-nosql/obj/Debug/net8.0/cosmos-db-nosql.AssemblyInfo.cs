@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cosmos-db-nosql")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b058859b4a647bc9b25b28eb8eef7b929871f1f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("cosmos-db-nosql")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cosmos-db-nosql")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

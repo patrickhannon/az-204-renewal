@@ -107,3 +107,4 @@
 /home/phannon/cloud/azure/az-204-renewal/work-with-cosmos-db/cosmos-db-nosql/obj/Debug/net8.0/cosmos-db-nosql.pdb
 /home/phannon/cloud/azure/az-204-renewal/work-with-cosmos-db/cosmos-db-nosql/obj/Debug/net8.0/cosmos-db-nosql.genruntimeconfig.cache
 /home/phannon/cloud/azure/az-204-renewal/work-with-cosmos-db/cosmos-db-nosql/obj/Debug/net8.0/ref/cosmos-db-nosql.dll
+/home/phannon/cloud/azure/az-204-renewal/work-with-cosmos-db/cosmos-db-nosql/obj/Debug/net8.0/cosmos-db-nosql.sourcelink.json
